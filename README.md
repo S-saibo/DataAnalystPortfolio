@@ -144,8 +144,8 @@ The goal of this repository is to demonstrate practical data analytics skills by
 
 If you have feedback, collaboration opportunities, or freelance projects, feel free to connect.
 
-- LinkedIn: *(Add your LinkedIn profile)*
-- Email: *(Add your email)*
+- LinkedIn: *(www.linkedin.com/in/sachin-saibo-0b463a255)*
+- Email: *(ssaibo08@gmail.com)*
 
 ---
 
