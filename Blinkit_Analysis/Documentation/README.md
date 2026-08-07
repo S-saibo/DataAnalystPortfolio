@@ -429,9 +429,8 @@ Potential improvements include:
 
 Aspiring Data Analyst
 
-- 💼 LinkedIn: *(Add your profile link)*
-- 📧 Email: *(Add your email)*
-- 🐙 GitHub: *(Add your GitHub profile)*
+- LinkedIn: *(www.linkedin.com/in/sachin-saibo-0b463a255)*
+- Email: *(ssaibo08@gmail.com)*
 
 ---
 
