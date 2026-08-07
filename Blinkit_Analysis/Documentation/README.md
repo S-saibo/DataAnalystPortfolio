@@ -1,8 +1,8 @@
-# 🛒 Blinkit Business Analytics Dashboard | End-to-End Power BI Project
+# Blinkit Business Analytics Dashboard | End-to-End Power BI Project
 
-<!-- <p align="center">
+<p align="center">
   <img src="Images/Dashboard_Overview.png" alt="Blinkit Dashboard Overview" width="100%">
-</p> -->
+</p> 
 
 <p align="center">
 
@@ -16,7 +16,7 @@
 
 ---
 
-# 📖 Project Overview
+# Project Overview
 
 This project is an **end-to-end Business Intelligence solution** developed using **Power BI** to analyze Blinkit's business performance across multiple business functions.
 
@@ -26,7 +26,7 @@ The project follows a complete analytics workflow similar to a real-world BI pro
 
 ---
 
-# 🎯 Business Problem
+# Business Problem
 
 Blinkit operates in a highly competitive quick-commerce industry where thousands of transactions, deliveries, inventory updates, customer interactions, and marketing campaigns occur daily.
 
@@ -44,7 +44,7 @@ This dashboard was built to answer these questions through interactive visualiza
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 - Build an interactive Executive Dashboard for management.
 - Analyze sales performance across products, brands, and categories.
@@ -56,7 +56,7 @@ This dashboard was built to answer these questions through interactive visualiza
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -68,20 +68,20 @@ This dashboard was built to answer these questions through interactive visualiza
 
 ---
 
-# 📂 Dataset Information
+# Dataset Information
 
 The project consists of **9 Excel datasets** representing different departments of the business.
 
 | Dataset | Description |
-|----------|-------------|
-| blinkit_orders | Customer Orders |
-| blinkit_order_items | Products sold in each order |
-| blinkit_products | Product Master |
-| blinkit_customers | Customer Details |
-| blinkit_customer_feedback | Ratings & Customer Feedback |
-| blinkit_delivery_performance | Delivery Operations |
-| blinkit_inventory | Daily Inventory |
-| blinkit_inventoryNew | Additional Inventory Records |
+|----------|-------------| 
+| blinkit_orders                | Customer Orders |
+| blinkit_order_items           | Products sold in each order |
+| blinkit_products              | Product Master |
+| blinkit_customers             | Customer Details |
+| blinkit_customer_feedback     | Ratings & Customer Feedback |
+| blinkit_delivery_performance  | Delivery Operations |
+| blinkit_inventory             | Daily Inventory |
+| blinkit_inventoryNew          | Additional Inventory Records |
 | blinkit_marketing_performance | Marketing Campaign Performance |
 
 ### Dataset Summary
@@ -95,7 +95,7 @@ The project consists of **9 Excel datasets** representing different departments 
 
 ---
 
-# 🏗️ Data Modeling
+# Data Modeling
 
 A **Star Schema** was implemented to improve report performance, simplify relationships, and enable efficient DAX calculations.
 
@@ -116,7 +116,7 @@ A **Star Schema** was implemented to improve report performance, simplify relati
 
 ---
 
-## ⭐ Data Model
+## Data Model
 
 <p align="center">
 <img src="Images/Data_Model.png" width="95%">
@@ -124,11 +124,11 @@ A **Star Schema** was implemented to improve report performance, simplify relati
 
 ---
 
-# 📊 Dashboard Pages
+# Dashboard Pages
 
 ---
 
-# 1️⃣ Executive Dashboard
+# 1️ Executive Dashboard
 
 ### Purpose
 
@@ -158,7 +158,7 @@ Provides a high-level overview of overall business performance for executives.
 
 ---
 
-# 2️⃣ Sales Dashboard
+# 2️ Sales Dashboard
 
 ### Purpose
 
@@ -186,7 +186,7 @@ Analyzes sales performance across products, brands, stores, and categories.
 
 ---
 
-# 3️⃣ Delivery Dashboard
+# 3️ Delivery Dashboard
 
 ### Purpose
 
@@ -213,7 +213,7 @@ Monitors delivery efficiency and operational performance.
 
 ---
 
-# 4️⃣ Customer Dashboard
+# 4️ Customer Dashboard
 
 ### Purpose
 
@@ -240,7 +240,7 @@ Analyzes customer behavior and satisfaction.
 
 ---
 
-# 5️⃣ Inventory Dashboard
+# 5️ Inventory Dashboard
 
 ### Purpose
 
@@ -267,7 +267,7 @@ Monitors inventory health and stock movement.
 
 ---
 
-# 6️⃣ Marketing Dashboard
+# 6️ Marketing Dashboard
 
 ### Purpose
 
@@ -294,7 +294,7 @@ Measures marketing campaign effectiveness.
 
 ---
 
-# 📈 Key Business Insights
+# Key Business Insights
 
 ## Executive
 
@@ -332,7 +332,7 @@ Measures marketing campaign effectiveness.
 
 ---
 
-# 📚 Skills Demonstrated
+# Skills Demonstrated
 
 ### Business Intelligence
 
@@ -357,7 +357,6 @@ Measures marketing campaign effectiveness.
 - Interactive Reports
 - Drill-through
 - Slicers
-- Bookmarks
 
 ### Business Analysis
 
@@ -369,7 +368,7 @@ Measures marketing campaign effectiveness.
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
 ```
 Blinkit-Business-Analytics/
@@ -404,26 +403,10 @@ Blinkit-Business-Analytics/
 │   └── Project_Architecture.pdf
 │
 ├── README.md
-└── LICENSE
+
 ```
 
----
-
-# 🚀 Future Enhancements
-
-Potential improvements include:
-
-- Customer Churn Prediction
-- Customer Lifetime Value (CLV)
-- Demand Forecasting
-- Inventory Optimization
-- Route Optimization
-- Marketing Attribution Analysis
-- Predictive Analytics using Python
-
----
-
-# 📬 Contact
+# Contact
 
 **Sachin Saibo**
 
@@ -434,8 +417,8 @@ Aspiring Data Analyst
 
 ---
 
-# ⭐ Support
+# Support
 
-If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub.
+If you found this project helpful or interesting, please consider giving it a **Star** on GitHub.
 
 Feedback and suggestions are always welcome!
