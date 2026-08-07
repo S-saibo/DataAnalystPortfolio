@@ -385,7 +385,15 @@ Blinkit-Business-Analytics/
 │   ├── blinkit_inventory.xlsx
 │   ├── blinkit_inventoryNew.xlsx
 │   └── blinkit_marketing_performance.xlsx
-│
+|
+│─ Bg_Images/
+│   ├── Executive_Dashboar.png
+│   ├── Sales_Dashboar.png
+│   ├── Delivery_Dashboar.png
+│   ├── Customer_Dashboar.png
+│   ├── Inventory_Dashboar.png
+│   └── Marketing_Dashboar.png
+|
 ├── Images/
 │   ├── Dashboard_Overview.png
 │   ├── Executive_Dashboard.png
