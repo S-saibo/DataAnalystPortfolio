@@ -1,7 +1,7 @@
 # Blinkit Business Analytics Dashboard | End-to-End Power BI Project
 
 <p align="center">
-  <img src="Images/Dashboard_Overview.png" alt="Blinkit Dashboard Overview" width="100%">
+  <img src="Images/Dashboard_Overview.pdf" alt="Blinkit Dashboard Overview" width="100%">
 </p>
 
 <p align="center">
